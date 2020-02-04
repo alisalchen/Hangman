@@ -1,0 +1,3 @@
+ServerHostname=localhost
+ServerPort=6789
+SecretWordFile=hangman.txt
